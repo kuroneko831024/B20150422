@@ -6,4 +6,5 @@ public class Test0422{
 		new B().maxFunc(x, y);
 		new C().avgFunc(x, y);
 	}
+        new C()
 }
